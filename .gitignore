@@ -25,3 +25,5 @@ moonraker.conf
 kiauh_macros.cfg
 .moonraker.conf.bkp
 .gitignore
+printer copy.cfg
+.printer_copy.cfg
