@@ -1,3 +1,4 @@
+
 printer-20220219_082446.cfg
 printer-20220219_102801.cfg
 printer-20220219_151909.cfg
@@ -23,3 +24,4 @@ printer.cfg.ori
 moonraker.conf
 kiauh_macros.cfg
 .moonraker.conf.bkp
+.gitignore
