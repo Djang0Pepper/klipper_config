@@ -21,9 +21,13 @@ backup_configs/.printer.cfg.0216
 backup_configs/.printer.cfg.ori
 .vscode/settings.json
 printer.cfg.ori
-moonraker.conf
 kiauh_macros.cfg
 .moonraker.conf.bkp
 .gitignore
 printer copy.cfg
 .printer_copy.cfg
+backup_configs/.My_filament.cfg.2022_0221--1720.bak
+backup_configs/.printer.cfg.2022_0222--2200.bak
+backup_configs/.printer.cfg.2022_0223--1141.bak
+backup_configs/printer-20220222_100552.cfg
+backup_configs/printer-20220222_101947.cfg
